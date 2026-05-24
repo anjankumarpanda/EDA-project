@@ -1,0 +1,7 @@
+Exploratory Data Analysis Report
+
+1. Dataset contains employee information.
+2. Salary increases with age and experience.
+3. Finance department has highest salaries.
+4. No missing values after cleaning.
+5. Visualization helps identify patterns clearly.
